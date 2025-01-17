@@ -3,7 +3,7 @@
 
 ## Student Details
 
-- **Full Name:** `Harshmanpreet`
+- **Full Name:** `Harshmanpreet Singh`
 - **CCID:** `harshman`
 
 ## References and Resources
